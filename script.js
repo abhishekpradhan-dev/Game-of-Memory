@@ -2,52 +2,28 @@ document.addEventListener('DOMContentLoaded', () => {
   //card options
   const cardArray = [
     {
-      name: 'fries',
-      img: 'images/fries.png'
+      name: 'batman',
+      img: 'images/batman.png'
     },
     {
-      name: 'cheeseburger',
-      img: 'images/cheeseburger.png'
+      name: 'captain-america',
+      img: 'images/captain-america.png'
     },
     {
-      name: 'ice-cream',
-      img: 'images/ice-cream.png'
+      name: 'flash',
+      img: 'images/flash.png'
     },
     {
-      name: 'pizza',
-      img: 'images/pizza.png'
+      name: 'hulk',
+      img: 'images/hulk.png'
     },
     {
-      name: 'milkshake',
-      img: 'images/milkshake.png'
+      name: 'ironman',
+      img: 'images/ironman.png'
     },
     {
-      name: 'hotdog',
-      img: 'images/hotdog.png'
-    },
-    {
-      name: 'fries',
-      img: 'images/fries.png'
-    },
-    {
-      name: 'cheeseburger',
-      img: 'images/cheeseburger.png'
-    },
-    {
-      name: 'ice-cream',
-      img: 'images/ice-cream.png'
-    },
-    {
-      name: 'pizza',
-      img: 'images/pizza.png'
-    },
-    {
-      name: 'milkshake',
-      img: 'images/milkshake.png'
-    },
-    {
-      name: 'hotdog',
-      img: 'images/hotdog.png'
+      name: 'spiderman',
+      img: 'images/spiderman.png'
     }
   ]
 
