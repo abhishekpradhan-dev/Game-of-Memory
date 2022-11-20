@@ -1,0 +1,12 @@
+.heading{
+ font-size: 45px;
+ color: blueviolet;
+ text-align: center;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
